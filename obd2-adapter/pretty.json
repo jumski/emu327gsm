@@ -1,0 +1,40 @@
+{
+    "aux_input_status": null,
+    "bank_1_sensor_1_oxygen_sensor_voltage": null,
+    "bank_1_sensor_2_oxygen_sensor_voltage": null,
+    "bank_1_sensor_3_oxygen_sensor_voltage": null,
+    "bank_1_sensor_4_oxygen_sensor_voltage": null,
+    "bank_2_sensor_1_oxygen_sensor_voltage": null,
+    "bank_2_sensor_2_oxygen_sensor_voltage": null,
+    "bank_2_sensor_3_oxygen_sensor_voltage": null,
+    "bank_2_sensor_4_oxygen_sensor_voltage": null,
+    "calculated_engine_load": "0.00%",
+    "commanded_secondary_air_status": null,
+    "distance_traveled_with_mil_on": "0km",
+    "engine_coolent_temperature": "-104.00*F",
+    "engine_rpm": "0.00rpm",
+    "freeze_dtc": null,
+    "fuel_pressure": "0.00psi",
+    "fuel_system_status": null,
+    "intake_air_temperature": "-104.00*F",
+    "intake_manifold_absolute_pressure": "0.00psi",
+    "long_term_fuel_trim_bank_1": "-100.00%",
+    "long_term_fuel_trim_bank_2": "-100.00%",
+    "maf_air_flow_rate": "0.00grams/sec",
+    "monitor_status_since_clear": null,
+    "obd_standards_vehicle_conforms_to": null,
+    "oxygen_sensors_present": null,
+    "oxygen_sensors_present_2": null,
+    "pids_supported_1": [
+        null
+    ],
+    "pids_supported_2": [
+        null
+    ],
+    "run_time_since_engine_start": 0,
+    "short_term_fuel_trim_bank_1": "-100.00%",
+    "short_term_fuel_trim_bank_2": "-100.00%",
+    "throttle_position": "0.00%",
+    "timing_advance": "-64.00*",
+    "vehicle_speed": "0.00mph"
+}

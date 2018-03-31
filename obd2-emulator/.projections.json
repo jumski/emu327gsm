@@ -1,0 +1,4 @@
+{
+  "src/*.ino": { "type": "src" },
+  "src/*.cpp": { "type": "src" }
+}
